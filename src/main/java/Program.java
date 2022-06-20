@@ -1,5 +1,3 @@
-import sun.misc.Signal;
-
 import java.util.Scanner;
 
 public class Program {
